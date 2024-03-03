@@ -18,6 +18,6 @@ This project entails the implementation of a simple shell in the C programming l
 
 ## Demo Image
 
-<img src="1.jpg" alt="Demo Image" width="300"/>
+<img src="1.png" alt="Demo Image" width="300"/>
 
 
