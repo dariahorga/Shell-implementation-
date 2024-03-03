@@ -16,5 +16,5 @@ This project entails the implementation of a simple shell in the C programming l
 10. Proper command handling: Reading from standard input, parsing command strings, and executing commands.
 11. UX/UI Design: User interaction with the terminal.
 
-![Demo Image](/path/to/your/photo.jpg)
+![Demo Image](1.png)
 
